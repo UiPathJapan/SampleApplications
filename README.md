@@ -1,2 +1,2 @@
 # SampleApplications
-Sample applications used by AutoValidator
+Simple applications that can be used for tests.
